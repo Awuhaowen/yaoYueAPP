@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/activity/activity",
+    "pages/header/header",
+    "pages/news/news",
+    "pages/login/login",
+    "pages/geRenzx/geRenzx",
+    "pages/About/About",
+    "pages/setting/setting",
+    "pages/yuYue/yuYue",
+    "pages/details/details",
+    "pages/zhuanTi/zhuanTi",
+    "pages/lunTan/lunTan"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "test",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {
+    "my-header": "/pages/header/header"
+  }
+}

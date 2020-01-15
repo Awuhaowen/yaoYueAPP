@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "activity",
+  "usingComponents": {
+    "my-header": "/pages/header/header"
+  }
+}

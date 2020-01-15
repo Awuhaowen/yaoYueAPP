@@ -1,0 +1,121 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "index"
+			}
+		},
+		{
+			"path": "pages/activity/activity",
+			"style": {
+				"navigationBarTitleText": "activity"
+			}
+		},
+
+		{
+			"path": "pages/header/header",
+			"style": {}
+		},
+		{
+			"path": "pages/zhanShi/zhanShi",
+			"style": {}
+		},
+		{
+			"path": "pages/diplayList/diplayList",
+			"style": {}
+		},
+		{
+			"path": "pages/news/news",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/geRenzx/geRenzx",
+			"style": {}
+		}, {
+			"path": "pages/About/About",
+			"style": {}
+		}, {
+			"path": "pages/setting/setting",
+			"style": {}
+		}, {
+			"path": "pages/yuYue/yuYue",
+			"style": {}
+		}, {
+			"path": "pages/details/details",
+			"style": {}
+		}, {
+			"path": "pages/zhuanTi/zhuanTi",
+			"style": {}
+		}, {
+			"path": "pages/lunTan/lunTan",
+			"style": {}
+		}, {
+			"path": "pages/Popup/Popup",
+			"style": {}
+		}, {
+			"path": "pages/test/test",
+			"style": {}
+		}, {
+			"path": "pages/modify/modify",
+			"style": {}
+		}, {
+			"path": "pages/notice/notice",
+			"style": {}
+		}, {
+			"path": "pages/information/information",
+			"style": {}
+		}, {
+			"path": "pages/pre/pre",
+			"style": {}
+		}
+	    ,{
+            "path" : "pages/schedule/schedule",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Docking/Docking",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sub/sub",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+
+	}
+
+	// "tabBar": {
+	// 	"list": [{
+	// 			"pagePath": "pages/index/index",
+	// 			"iconPath": "static/images/shouYe.png",
+	// 			"selectedIconPath": "static/images/shouYeActive.png",
+	// 			"text": "首页"
+	// 		},
+	// 		{
+	// 			"pagePath": "pages/geRenzx/geRenzx",
+	// 			"iconPath": "static/images/geRen.png",
+	// 			"selectedIconPath": "static/images/yongHu.png",
+	// 			"text": "个人中心"
+	// 		}
+	// 	]
+	// }
+}

@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"con \x3e .",[1],"main { margin-top: ",[0,90],"; }\n.",[1],"con \x3e .",[1],"main \x3e .",[1],"btn { border: 1px solid rgba(4, 79, 206, 0.5); width: ",[0,530],"; text-align: center; font-weight: 400; font-size: ",[0,28],"; line-height: ",[0,74],"; border-radius: ",[0,10],"; margin: ",[0,30]," auto 0; color: #044fce; height: ",[0,74],"; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

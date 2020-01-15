@@ -1,0 +1,1 @@
+<view class="con"><my-header vue-id="1" bind:__l="__l"></my-header><view class="main"><block wx:for="{{btn}}" wx:for-item="item" wx:for-index="i" wx:key="i"><view data-event-opts="{{[['tap',[['hdjs',[i]]]]]}}" class="btn" bindtap="__e">{{''+item+''}}</view></block></view></view>

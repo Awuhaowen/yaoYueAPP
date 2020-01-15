@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "index",
+  "usingComponents": {
+    "my-header": "/pages/header/header"
+  }
+}

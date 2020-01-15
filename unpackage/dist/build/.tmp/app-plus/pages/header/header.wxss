@@ -1,0 +1,55 @@
+
+.hongDian {
+	width: 14rpx;
+	height: 14rpx;
+	text-align: center;
+	position: absolute;
+	top: 34rpx;
+	border-radius: 100%;
+	right: 40rpx;
+	z-index: 999;
+	line-height: 40rpx;
+	background-color: rgb(255, 2, 2);
+}
+.header {
+	height: 60rpx;
+	padding: 20rpx;
+	background: #fff;
+}
+.header > view > view {
+	width: 120rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.header > view {
+	width: 660rpx;
+	margin: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.header > view > image {
+	width: 330rpx;
+	height: 96rpx;
+}
+.header > view > view > image {
+	width: 40rpx;
+	height: 40rpx;
+	position: relative;
+}
+
